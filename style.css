@@ -46,7 +46,7 @@
     justify-content: space-evenly;
     align-items: center;
     gap: 100px;
-    margin-left: 300px;
+    margin-left: 400px;
 }
 .failures-content-title{
     color: #151414;
@@ -65,4 +65,39 @@
     color: #444343;
     margin-top: 16px;
     margin-left: 18px;
+}
+/* plans styles here  */
+.plans-container{
+    width: 80%;
+    margin-left: 300px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.plans-title{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 60px;
+}
+.plans-content{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+}
+.plans-content-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.plans-content-box{
+    text-align: center;
+}
+.plans-content-description{
+    font-size: 25px;
+    color: #737372;
+    font-weight: 500px;
+    text-align: center;
+}
+.plans-img{
+    width: 93px;
+    height: 93px;
 }
