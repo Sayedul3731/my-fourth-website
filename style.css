@@ -13,6 +13,7 @@
     background-position: center;
     display: flex;
     align-items: center;
+    margin-bottom: 130px;
 }
 .banner-content{
     width: 525px;
@@ -68,8 +69,8 @@
 }
 /* plans styles here  */
 .plans-container{
-    width: 80%;
-    margin-left: 300px;
+    width: 85%;
+    margin-left: 150px;
     margin-top: 150px;
     margin-bottom: 150px;
 }
@@ -127,4 +128,65 @@
     color: #005FAC;
     border: 0px;
     margin-top: 10px;
+    border-radius: 6px;
+}
+/* footer styles here  */
+footer{
+    width: 100%;
+    height: 70vh;
+    background-color: #151414;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer-content{
+    width: 500px;
+    margin-left: 30px;
+}
+.footer-content-title{
+    font-size: 45px;
+    font-weight: 700px;
+    color: #f8f8f8;
+    margin-bottom: 20px;
+}
+.footer-content-description{
+    font-weight: 400px;
+    line-height: 26px;
+    margin-bottom: 16px;
+
+}
+.footer-content-email{
+    font-size: 16px;
+    font-weight: 400px;
+    margin-bottom: 15px;
+}
+.footer-content-phone{
+    font-weight: 400px;
+    margin-bottom: 15px;
+}
+.footer-content-icon{
+    width: 200px;
+}
+.footer-btn-title{
+    font-size: 25px;
+    font-weight: 600px;
+
+}
+.footer-btn1{
+    padding: 20px 156px 20px 20px;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    margin-top: 20px;
+    margin-bottom: 18px;
+    border-radius: 8px;
+}
+.footer-btn2{
+    padding: 20px 35px;
+    border-radius: 8px;
+    background: #005FAC;
+    color: white;
+    border: 0px;
 }
