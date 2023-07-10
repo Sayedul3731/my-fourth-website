@@ -40,7 +40,7 @@
     font-size: 20px;
     border-radius: 5px;
 }
-/* failures styles here  */
+/* failures styles starts here  */
 .failures-container{
     width: 1000px;
     display: flex;
@@ -67,7 +67,7 @@
     margin-top: 16px;
     margin-left: 18px;
 }
-/* plans styles here  */
+/* plans styles starts here  */
 .plans-container{
     width: 85%;
     margin-left: 150px;
@@ -102,7 +102,7 @@
     width: 93px;
     height: 93px;
 }
-/* watch styles here  */
+/* watch styles starts here  */
 .watch-container{
     width: 70%;
     height: 300px;
@@ -130,7 +130,7 @@
     margin-top: 10px;
     border-radius: 6px;
 }
-/* footer styles here  */
+/* footer styles starts here  */
 footer{
     width: 100%;
     height: 70vh;
